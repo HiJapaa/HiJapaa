@@ -13,7 +13,7 @@
  
  <br>
  
-  ### Estou estudando muito para ingressar nesta área! Me ajudem mandando dicas!
+  ### Um apaixonado por tecnologia e todo seu vasto horizonte!
  
 <div> 
  <a href="https://www.instagram.com/jeef.is.enough/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
