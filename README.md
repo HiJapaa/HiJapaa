@@ -1,6 +1,4 @@
-## Bem-vindo(a) ao meu perfil :p
-
- <div>
+<div>
    <a href="https://github.com/HiJapaa">
    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HiJapaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HiJapaa&layout=compact&langs_count=6&theme=tokyonight"/>
